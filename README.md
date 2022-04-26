@@ -15,12 +15,6 @@ Then create a new layer and preferably call it ground, any object you want the p
 
 
 
------Count Insturctions------
-Simply drag the canvas object and the game object into your scene and in the game called “game object” put the text object which is a child of the canvas into that variable.
-
-Then attach the script point instance onto any object you want to be collected and have add points 
-
-
 
 
 ------Pixel Effect-------
