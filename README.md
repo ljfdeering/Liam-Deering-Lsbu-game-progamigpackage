@@ -12,10 +12,3 @@ Read Me For the Packages
 For this first drag the player prefab and then camera prefab into the scene. 
 Then on the camera object there variable called, expand the player object to view the child object find on called “head” and place in the camera variable Called player. 
 Then create a new layer and preferably call it ground, any object you want the player to be able to run and slide give the ground layer and also apply the physics included called grounds 
-
-
-
-
-
-------Pixel Effect-------
-Drag the script shader Handler onto the main camera then drag the material called “pixlation” into variable called effect material.
